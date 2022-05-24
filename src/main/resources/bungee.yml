@@ -1,0 +1,4 @@
+name: AtomEvents
+version: '${project.version}'
+main: ir.alijk.atomevents.AtomEvents
+description: AtomEvents plugin
